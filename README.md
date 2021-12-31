@@ -5,7 +5,8 @@ what this template includes
 - Forge's HMR + CLI
 - Typescript support(Tsx)
 - babel-solid-preset, uses babel loader instead of ts-loader due to build issues
-- webpack 5
+- webpack 5 + working webpack.rules
+- fixed unreactive issue with solid.js and electron integration with presets
 
 refer - https://issueexplorer.com/issue/solidjs/solid/622
 
