@@ -6,7 +6,7 @@ what this template includes
 - Typescript support(Tsx)
 - babel-solid-preset, uses babel loader instead of ts-loader due to build issues
 - webpack 5 + working webpack.rules
-- fixed unreactive issue with solid.js and electron integration with presets
+- fixes unreactive issue with solid.js and electron integration with presets
 
 refer - https://issueexplorer.com/issue/solidjs/solid/622
 
